@@ -1,6 +1,9 @@
 # MEITEISTRONG
+GAME
+http://utyagisan.s239.xrea.com/
+
 使い方(日本語)
-https://twitter.com/usatyun/status/1640840137046360064?s=20
+http://utyagisan.s239.xrea.com/setumei.html
 
 How　to use(English)
-https://twitter.com/usatyun/status/1641222567196495872?s=20
+http://utyagisan.s239.xrea.com/setumei2.html
